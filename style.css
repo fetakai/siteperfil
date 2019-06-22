@@ -72,13 +72,13 @@ a:hover {
 .img-circle{
     border-radius: 50%;
 }
-.btn-blue {
-    background-color: blue;
+.btn-red {
+    background-color: red;
     color: white;
     padding: 15px 20px;
     border-radius: 4px;
 }
-.btn-blue:hover {
+.btn-red:hover {
     background-color: black;
     color: white;
 }
